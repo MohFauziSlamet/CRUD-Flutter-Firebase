@@ -15,6 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Fitur apps :
+- Login dengan email dan password
+- Remember Me
+- Lupa Password
+- CRUD dengan state management GET-X dan Online Database Firebase
+- Upload Foto profile dari local memori.
+
 DEMO APPS
 
 ![demo](https://user-images.githubusercontent.com/68117514/183277960-044377bc-ca7a-45e7-8b45-b510eb01f9c7.gif)
